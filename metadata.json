@@ -1,0 +1,6 @@
+{
+  "name": "LexiLedger — Scrabble Scorecard & Word Judge",
+  "description": "Tournament-grade Scrabble scorecard, turn tracker, real-time leaderboard for up to 4 players, and instant dictionary word & point verifier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
