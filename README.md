@@ -36,7 +36,7 @@ LexiLedger is a modern, feature-rich Scrabble score dashboard and game assistant
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mitch/lexiledger.git
+   git clone https://github.com/mitchleung/lexiledger.git
    cd lexiledger
    ```
 
